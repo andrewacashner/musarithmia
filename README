@@ -1,14 +1,7 @@
-musarithmia
-----------
-----------
-
-Projects by a professional musician and amateur programmer.
-I welcome your feedback, andrewacashner at gmail.
-
-Copyright (c) 2015 Andrew A. Cashner.
-
 `interval`
 ---------
+
+Andrew A. Cashner, 2015
 
 *`interval`* calculates musical intervals.
 
@@ -27,3 +20,9 @@ In a console, run the following commands for a CWEB file called `file.w`:
     cweave file
     pdftex file
 
+License
+-------
+
+I release this work into the public domain. 
+You may do what you like with it.
+I provide no warranty of any kind.
