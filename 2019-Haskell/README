@@ -1,0 +1,6 @@
+# musarithmetic
+
+Andrew Cashner, 2019/10/23
+
+2019 re-implementation of interval calculator in Literate Haskell. 
+I've learned a few things since the 2015 version in CWEB!
