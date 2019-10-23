@@ -20,9 +20,8 @@ In a console, run the following commands for a CWEB file called `file.w`:
     cweave file
     pdftex file
 
-License
--------
+# Update 2019/10/23
 
-I release this work into the public domain. 
-You may do what you like with it.
-I provide no warranty of any kind.
+Makefile added: Just run `make` to produce both executable and documentation.
+
+Please compare with new implementation in Haskell in the directory above.

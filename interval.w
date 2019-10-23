@@ -10,7 +10,7 @@
 
 @* Introduction.
 This is \.{interval}, a program to calculate musical intervals by Andrew
-Cashner, \today.  
+Cashner, April 20, 2015.
 The user provides a command in the form of (1) a starting pitch with its octave
 and accidental, and (2) an interval degree and quality to add or subtract.
 The program outputs an ending pitch with its octave and accidental.
